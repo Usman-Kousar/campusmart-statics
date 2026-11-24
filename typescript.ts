@@ -80,3 +80,6 @@ type Product = {
     .map(({ title, price }) => `${title} – $${price}`);
    
   console.table(topRated);
+
+
+//   hello
